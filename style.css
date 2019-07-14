@@ -1,0 +1,18 @@
+body {
+  position: relative;
+}
+
+.nav-link{
+  font-weight: bold;
+}
+.navbar-brand {
+  font-weight: bold;  
+}
+
+#aboutUs {
+  margin-top : 5%;
+}
+
+.jumbotron {
+  padding : 0px !important;
+}
